@@ -1,4 +1,4 @@
-<img src="https://twemoji.maxcdn.com/v/latest/72x72/1f44b.png" width="28"/> I'm Alex Appleget, and I'm a Full-Stack Software Engineer
+<span style="font-size: 1.5rem;">👋</span> I'm Alex Appleget, and I'm a Full-Stack Software Engineer
 
 Detail-oriented Frontend Engineer passionate about crafting clean, accessible, and user-friendly UI/UX with technologies like **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**. I specialize in translating real-world user needs into intuitive digital experiences and enjoy working in fast-paced, collaborative environments.
 
