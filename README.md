@@ -10,4 +10,4 @@ I'm currently building a SaaS product and building in public on [LinkedIn](https
 - 🧠 I'm currently learning about OpenAI API prompt engineering and product planning.
 - 🤝 I'm open to collaborating on anything and everything.
 
---> "Building beautiful things that make people's lives easier is what lights me up."
+--> "Helping people learn and solving real problems is what I love most."
