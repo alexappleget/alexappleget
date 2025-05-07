@@ -1,4 +1,4 @@
-##👋 I'm Alex Appleget, and I'm a Full-Stack Software Engineer
+👋 I'm Alex Appleget, and I'm a Full-Stack Software Engineer
 
 Detail-oriented Frontend Engineer passionate about crafting clean, accessible, and user-friendly UI/UX with technologies like **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**. I specialize in translating real-world user needs into intuitive digital experiences and enjoy working in fast-paced, collaborative environments.
 
