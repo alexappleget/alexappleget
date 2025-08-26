@@ -1,6 +1,8 @@
 ![Cover Image](./assets/cover-image.png)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alex-appleget/)
+<a href="https://www.linkedin.com/in/alex-appleget/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
+</a>
 
 ## 👋 Hi, I'm Alex Appleget
 
@@ -23,8 +25,6 @@ This web app lets people sign up, create their own worlds (like guilds), invite 
 - Admin settings with role-based access control.
 
 I also rolled my own authentication system using JWTs and refresh tokens with httpOnly cookies.
-
-<video src="./assets/project-video.mp4" autoplay loop muted playsinline width="600"></video>
 
 ## 📊 GitHub Stats
 
