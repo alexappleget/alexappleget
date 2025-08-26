@@ -1,8 +1,6 @@
 ![Cover Image](./assets/cover-image.png)
 
-<a href="https://www.linkedin.com/in/alex-appleget/" target="\_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
-</a>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alex-appleget/)
 
 ## 👋 Hi, I'm Alex Appleget
 
