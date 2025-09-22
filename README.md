@@ -4,7 +4,7 @@
 
 ## 👋 Hi, I'm Alex Appleget
 
-🧑‍💻 I'm Full-Stack Software Engineer who loves writing documentation to help other developers learn.
+🧑‍💻 I'm Full-Stack Software Engineer who specializes in TypeScript, React, Next.js, Node.js, Express, and PostgreSQL.
 
 🔒 Lately, I've developed a passion for understanding authentication and how it's built from JWTs to secure cookie management and refresh tokens.
 
@@ -25,6 +25,7 @@
 ## 📊 GitHub Stats
 
 ![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexappleget&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexappleget&layout=compact)
 
 ## 🚀 Latest Project
 
