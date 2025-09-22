@@ -22,6 +22,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)
 
+## 📊 GitHub Stats
+
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexappleget&show_icons=true&theme=radical)
+
 ## 🚀 Latest Project
 
 [Frontend](https://github.com/alexappleget/terrrrr-frontend) | [Backend](https://github.com/alexappleget/terrrrr-backend)
@@ -35,7 +39,3 @@ This web app lets people sign up, create their own worlds (like guilds), invite 
 - Admin settings with role-based access control.
 
 I also rolled my own authentication system using JWTs and refresh tokens with httpOnly cookies.
-
-## 📊 GitHub Stats
-
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexappleget&show_icons=true&theme=radical)
