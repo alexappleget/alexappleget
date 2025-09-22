@@ -1,4 +1,4 @@
-![Cover Image](./assets/cover-image.png)
+![Cover Image](./assets/github-cover.png)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alex-appleget/)
 
