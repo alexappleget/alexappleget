@@ -21,10 +21,6 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![GitKraken](https://img.shields.io/badge/GitKraken-179287?logo=gitkraken&logoColor=white&style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?logo=githubactions&logoColor=white&style=for-the-badge)
 
 ## 🚀 Latest Project
 
